@@ -204,7 +204,7 @@ The `orders` database stores details of placed orders.
 - Implement authentication and authorization.
 - Add Kafka for asynchronous messaging.
 - Introduce a front-end interface.
-- Use Docker for containerization.
+- Use Docker for containerization...
 
 
 
